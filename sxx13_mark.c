@@ -44,7 +44,8 @@ int main(){
     }
 
   }
-  //输出结果
+  //最终输出结果
+
  printf("test result\n" );
   j=0;
   for(i=0;i<26;i++){
